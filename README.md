@@ -1,2 +1,2 @@
 # finstagram
-tutorial for lighthouse labs web fundamentals
+First website I created during lighthouse labs web fundamentals program. 
