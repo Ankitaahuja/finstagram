@@ -1,5 +1,6 @@
 # Finstagram
-First website I created during lighthouse labs web fundamentals program. 
+First website I created during lighthouse labs web fundamentals program.  
+Framework Used: HTML, CSS, Ruby, Ruby on Rails, Sinatra, PSQL
 
 
 ## Preview
